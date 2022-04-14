@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on My New Hugo Site</title><link>https://sarah-dj.github.io/First-Hugo-Blog/tags/</link><description>Recent content in Tags on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 14 Apr 2022 01:27:58 +0200</lastBuildDate><atom:link href="https://sarah-dj.github.io/First-Hugo-Blog/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>about</title><link>https://sarah-dj.github.io/First-Hugo-Blog/tags/about/</link><pubDate>Thu, 14 Apr 2022 01:27:58 +0200</pubDate><guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/about/</guid><description/></item><item><title>Application</title><link>https://sarah-dj.github.io/First-Hugo-Blog/tags/application/</link><pubDate>Wed, 13 Apr 2022 23:51:19 +0200</pubDate><guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/application/</guid><description/></item><item><title>Best Store</title><link>https://sarah-dj.github.io/First-Hugo-Blog/tags/best-store/</link><pubDate>Wed, 13 Apr 2022 23:51:19 +0200</pubDate><guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/best-store/</guid><description/></item><item><title>Geek Ideas</title><link>https://sarah-dj.github.io/First-Hugo-Blog/tags/geek-ideas/</link><pubDate>Wed, 13 Apr 2022 23:51:19 +0200</pubDate><guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/geek-ideas/</guid><description/></item><item><title>Technology</title><link>https://sarah-dj.github.io/First-Hugo-Blog/tags/technology/</link><pubDate>Wed, 13 Apr 2022 23:51:19 +0200</pubDate><guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/technology/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>https://sarah-dj.github.io/First-Hugo-Blog/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Apr 2022 01:27:58 +0200</lastBuildDate><atom:link href="https://sarah-dj.github.io/First-Hugo-Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://sarah-dj.github.io/First-Hugo-Blog/tags/about/</link>
+      <pubDate>Thu, 14 Apr 2022 01:27:58 +0200</pubDate>
+      
+      <guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application</title>
+      <link>https://sarah-dj.github.io/First-Hugo-Blog/tags/application/</link>
+      <pubDate>Wed, 13 Apr 2022 23:51:19 +0200</pubDate>
+      
+      <guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Store</title>
+      <link>https://sarah-dj.github.io/First-Hugo-Blog/tags/best-store/</link>
+      <pubDate>Wed, 13 Apr 2022 23:51:19 +0200</pubDate>
+      
+      <guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/best-store/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geek Ideas</title>
+      <link>https://sarah-dj.github.io/First-Hugo-Blog/tags/geek-ideas/</link>
+      <pubDate>Wed, 13 Apr 2022 23:51:19 +0200</pubDate>
+      
+      <guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/geek-ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://sarah-dj.github.io/First-Hugo-Blog/tags/technology/</link>
+      <pubDate>Wed, 13 Apr 2022 23:51:19 +0200</pubDate>
+      
+      <guid>https://sarah-dj.github.io/First-Hugo-Blog/tags/technology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
