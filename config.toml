@@ -1,7 +1,0 @@
-baseURL = 'https://sarah-dj.github.io/First-Hugo-Blog/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-paginate = 3
-
-[params]
-dateFormat = "Monday 2 Jan, 2006, 15:04"
