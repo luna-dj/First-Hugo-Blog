@@ -1,4 +1,4 @@
-baseURL = 'https://sarah-dj.github.io/First-Hugo-Blog/'
+baseURL = 'https://testing-sarah-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 paginate = 3
