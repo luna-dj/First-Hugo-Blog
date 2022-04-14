@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://testing-sarah-hugo.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 paginate = 3
