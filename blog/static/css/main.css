@@ -1,8 +1,9 @@
+
 body {
     margin: 0;
     padding: 0;
 }
-img{
+img {
     max-width: 100%;
 }
 .page-wrapper {
@@ -10,32 +11,29 @@ img{
     min-height: 100vh;
     background-image: url("https://cdn.pixabay.com/photo/2022/04/06/13/58/woman-7115624_960_720.jpg");
     background-size: cover;
-    position: absolute;
+    position: relative;
     justify-content: center;
     align-items: center;
-
 }
-
 .page-wrapper::before {
     content: '';
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
-    bottom:0;
-    background: rgba(0,0,0, 0.5);
-
+    bottom: 0;
+    background: rgba(0,0,0, .5);
 }
 .page-wrapper h1 {
     color: white;
     position: relative;
-    z-index: 20;
+    z-index: 500;
 }
 .home-nav {
     display: flex;
     justify-content: center;
     position: relative;
-    z-index: 20;
+    z-index: 500;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -45,5 +43,8 @@ img{
     color: white;
     font-size: 1.6rem;
     display: inline-block;
-    padding: 1rem;
+    padding: 1rem
 }
+
+
+
