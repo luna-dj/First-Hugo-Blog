@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://sarah-dj.github.io/First-Hugo-Blog/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 paginate = 3
